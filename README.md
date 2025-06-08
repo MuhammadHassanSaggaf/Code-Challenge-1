@@ -12,17 +12,15 @@ Each script uses `prompt()` for input and logs a clear, formatted result to the 
 ---
 
 ## Project Setup
-Clone the repository
+1. Clone the repository
+`git clone https://github.com/MuhammadHassanSaggaf/Code-Challenge-1.git`
+`cd Code-Challenge-1`
 
-git clone https://github.com/MuhammadHassanSaggaf/Code-Challenge-1.git
-cd Code-Challenge-1
-
-
-Run in Browser
+2. Run in Browser
 
 Open any of the *.js files in your favorite code editor.
 
-Launch via a Live Server extension or by embedding in an HTML <script> tag.
+Launch via a Live Server extension or by embedding in an HTML `<script> ` tag.
 
 Follow the on-screen prompt dialogs to enter input and view results in the developer console.
 
@@ -30,4 +28,5 @@ Follow the on-screen prompt dialogs to enter input and view results in the devel
 Author: Muhammad Hassan Saggaf
 
 License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
+See the LICENSE file for details.
